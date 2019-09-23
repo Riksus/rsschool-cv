@@ -4,10 +4,10 @@ Since September 2019, I have been studying front-end development. In my plans in
 - Skills and tools: 
     - Average: HTML/HTML5, CSS/CSS3, GIT, VS Code, Figma.
     - Novice: JS, Python.
-    <details>
+
+<details>
   <summary>My code examples(FAKE)</summary>
 Пузырьковая сортировка
-
 <blockquote><font color="#000066">const</font>&nbsp;bubbleSort&nbsp;<font color="#339933">=</font>&nbsp;arr&nbsp;<font color="#339933">=&gt;</font>&nbsp;<font color="#009900">&#123;</font><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<font color="#000066">for</font>&nbsp;<font color="#009900">&#40;</font>let&nbsp;i&nbsp;<font color="#339933">=</font>&nbsp;<font color="#CC0000">0</font><font color="#339933">,</font>&nbsp;endI&nbsp;<font color="#339933">=</font>&nbsp;arr.<font color="#660066">length</font>&nbsp;<font color="#339933">-</font>&nbsp;<font color="#CC0000">1</font><font color="#339933">;</font>&nbsp;i&nbsp;<font color="#339933">&lt;</font>&nbsp;endI<font color="#339933">;</font>&nbsp;i<font color="#339933">++</font><font color="#009900">&#41;</font>&nbsp;<font color="#009900">&#123;</font><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;let&nbsp;wasSwap&nbsp;<font color="#339933">=</font>&nbsp;<font color="#003366">false</font><font color="#339933">;</font><br/>
@@ -23,6 +23,7 @@ Since September 2019, I have been studying front-end development. In my plans in
 &nbsp;<br/>
 <font color="#009900">&#125;</font><font color="#339933">;</font></blockquote>
 </details>
+
 - Education and courses:
     - High Education degree. BSUIR Department of Computer Technology 2013-2018.
     - RS-shool Q3. From september 2019 until now.
