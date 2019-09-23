@@ -23,3 +23,8 @@ Since September 2019, I have been studying front-end development. In my plans in
 &nbsp;<br/>
 <font color="#009900">&#125;</font><font color="#339933">;</font></blockquote>
 </details>
+- Education and courses:
+    - High Education degree. BSUIR Department of Computer Technology 2013-2018.
+    - RS-shool Q3. From september 2019 until now.
+    - Completed HTML, CSS courses on Codeacademy. [Completed courses](https://www.codecademy.com/profiles/riksusqwertty1600812029) .
+- English level: A2 (Pre-Intermediate)
