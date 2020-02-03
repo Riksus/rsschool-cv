@@ -1,0 +1,10 @@
+*.wrapper {
+    position: relative;
+    margin: 0 auto; 
+    max-width: 1024px;
+    font-size: 19px;
+  }
+  .photo {
+    float: right; 
+    width: 250px;
+  }
